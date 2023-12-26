@@ -7,7 +7,7 @@ As a passionate quantum engineer, security specialist, and web developer, I thri
 
 - 🌱 Currently, I’m diving deep into the realms of quantum technology, specifically focusing on quantum cryptography and hardware optimization. The challenge of working with what's essentially the fabric of reality excites me, as it's a field brimming with both mystery and potential.
 
-- 💞️ I’m looking to collaborate on projects that push the boundaries of quantum computing and cybersecurity. I'm eager to join forces with like-minded innovators, whether it's developing cutting-edge quantum algorithms, designing robust security systems, or even venturing into unexplored territories of web development.
+- 💞️ I’m looking to collaborate on projects that push the boundaries of quantum computing and cybersecurity. I'm eager to join forces with like-minded innovators, whether it's developing cutting-edge quantum algorithms, or designing robust security systems.
 
 - 📫 To reach me, feel free to connect on [My Card](https://card.pow.gay/).
 
