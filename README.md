@@ -9,7 +9,7 @@
 
 - 💞️ I’m looking to collaborate on projects that push the boundaries of quantum computing and cybersecurity. I'm eager to join forces with like-minded innovators, whether it's developing cutting-edge quantum algorithms, designing robust security systems, or even venturing into unexplored territories of web development.
 
-- 📫 To reach me, feel free to connect on [My Card](https://card.pow.gay/). Whether it's for collaboration, discussion, or just to share insights, I'm always open to engaging with fellow enthusiasts and professionals.
+- 📫 To reach me, feel free to connect on [My Card](https://card.pow.gay/).
 
 Key Skills and Projects:
 - Quantum Cryptography
