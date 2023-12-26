@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @pow4you
 
 
-- As a passionate quantum engineer, security specialist, and web developer, I thrive on exploring the unseen and the unmanifested, much like my Homestuck classpect, the Thief of Void. In this world of technology, I see myself as someone who brings the non-existent into reality, creating and securing the digital realms with a flair for innovation.
+As a passionate quantum engineer, security specialist, and web developer, I thrive on exploring the unseen and the unmanifested. In this world of technology, I see myself as someone who brings the non-existent into reality, creating and securing the digital realms with a flair for innovation.
 
 - 👀 I’m particularly interested in the intricate dance of quantum computing and its potential to revolutionize our digital landscape. My fascination doesn't stop there; I'm equally captivated by the challenge of safeguarding our digital frontiers against evolving threats.
 
