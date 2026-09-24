@@ -4,14 +4,14 @@
   Software engineer with a background in quantum communications, embedded systems, and full-stack web development.
 </h3>
 
-<p align="center">
+<!--p align="center">
   <a href="https://github.com/pow4you">
     <img src="https://github-readme-stats.vercel.app/api?username=pow4you&show_icons=true&theme=transparent" alt="Lea's GitHub stats" />
   </a>
   <a href="https://github.com/pow4you">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pow4you&layout=compact&theme=transparent" alt="Lea's top languages" />
   </a>
-</p>
+</p-->
 
 <h3 align="left">Languages and Tools:</h3>
 
