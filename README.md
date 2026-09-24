@@ -54,7 +54,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pow4you&theme=transparent" alt="Lea's GitHub contribution streak" />
 </p>
 
