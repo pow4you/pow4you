@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lea</h1>
 
-<h3 align="center">
+<p align="center">
   Software engineer with a background in quantum communications, embedded systems, and full-stack web development.
-</h3>
+<p>
 
 <!--p align="center">
   <a href="https://github.com/pow4you">
@@ -13,9 +13,9 @@
   </a>
 </p-->
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
